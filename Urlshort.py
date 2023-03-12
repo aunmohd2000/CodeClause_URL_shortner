@@ -12,4 +12,6 @@ def shortenurl(url):
 
 shortenurl(url) # calling the shortenurl function taht we just created also passing long url as parameter
 
-a = input("Press Any Key to Quit") 
+a = input("Press Any Key to Quit")  
+
+#end of file
